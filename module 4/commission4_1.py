@@ -2,6 +2,7 @@
 # This program calculates sales commissions.
 
 def main():
+    
     # Create a variable to control the loop.
     keep_going='y'
     # Calculate a series of commissions.
