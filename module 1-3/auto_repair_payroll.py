@@ -7,6 +7,7 @@ OT_MULTIPLIER=1.5 # Overtime multiplier
 hours=float(input('Enter the number of hours worked: '))
 pay_rate=float(input('Enter the hourly pay rate: '))
 
+
 #Calculate and display gross pay
 if hours>BASE_HOURS:
     #Calculate the gross pay with overtime
