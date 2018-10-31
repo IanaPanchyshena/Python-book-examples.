@@ -4,8 +4,6 @@
 # table of numbers and their squares.
 
 def main():
-
-    TAX_FACTOR=0.0065
     
     # Get the starting value.
     print('This program displays a list of numbers')
