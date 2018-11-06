@@ -9,9 +9,9 @@ def main():
     print('Goodbye!')
 
 # Next we define the message function.
-    def message():
-        print('I am Arthur,')
-        print('King of the Britons.')
+def message():
+    print('I am Arthur,')
+    print('King of the Britons.')
 
 
 # Call the main function.
