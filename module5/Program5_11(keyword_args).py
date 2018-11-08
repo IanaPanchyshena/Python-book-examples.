@@ -11,7 +11,7 @@ def main():
 # per period, and number of periods.
 
 def show_interest(principal,rate,periods):
-    interest=principal*rate
+    interest=principal*rate*periods
     print('The simple interest will be $',
           format(interest,'.2f'),
           sep='')
