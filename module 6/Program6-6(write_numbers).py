@@ -20,7 +20,8 @@ def main():
 
     # Close the file.
     outfile.close()
+    print('Data written to numbers.txt')
 
-    # Close the main function.
+    # Call the main function.
 main()
 
