@@ -1,12 +1,6 @@
-Dark
-18
-Medium
-25
 dark
-2
-dark
-1
-dark
-1
-med
-3
+15
+dark medium
+20
+medium
+40
